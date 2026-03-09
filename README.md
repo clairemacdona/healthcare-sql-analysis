@@ -10,9 +10,9 @@ The dataset contains patient admissions, medical conditions, billing amounts, in
 
 ## Tools & Technologies
 
-Database engine - PostgreSQL
-GUI client - TablePlus
-Data source - Kaggle
+- Database engine - PostgreSQL
+- GUI client - TablePlus
+- Data source - Kaggle
 
 ---
 
