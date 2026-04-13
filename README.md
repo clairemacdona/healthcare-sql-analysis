@@ -122,3 +122,8 @@ Full PDF documentation is available in the `docs/` folder:
 
 - **data_cleaning_report.pdf** — detailed write-up of all profiling checks, issues found, fixes applied and schema design decisions
 - **analysis_queries.pdf** — all 25 analysis queries with business questions and commentary
+
+## Dashboard Preview
+
+<img width="1400" height="904" alt="HealthcareDashboard" src="https://github.com/user-attachments/assets/e9ce697e-9cca-466c-9af3-2464bcd278d5" />
+
